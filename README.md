@@ -8,5 +8,3 @@ You can click the Preview link to take a look at your changes.
 
 For more information, please visit:
 https://bergholt.net
-https://bergholt.net/flora
-https://bergholt.net/objects
