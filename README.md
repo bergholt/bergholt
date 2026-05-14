@@ -6,5 +6,5 @@ bergholt/bergholt is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-For more information, please visit:
+For more information, visit:
 https://bergholt.net
