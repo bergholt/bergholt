@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bergholt
-- 👀 I’m interested in ... cognitive semiotics,  poetry & poeticd, and photography-based art forms.
+- 👀 I’m interested in ... cognitive semiotics, poetry & poetics, photography-based art forms.
 
 <!---
 bergholt/bergholt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
