@@ -7,7 +7,7 @@ Digital infrastructure · semiotics · poetry & poetics · photography-based art
 ### Sun: A Triptych
 **[triptych](https://github.com/bergholt/triptych)** — A Prolog realisation of a system poem.
 3 nouns × 3 verbs × 4 adverbs × 2 syntactic orders = 72 variants.
-*Prolog · [read about the work →](https://bergholt.net/...)*
+*Prolog · [read about the work →](https://bergholt.net/sun)*
 
 ### Botanical transcription
 **[flora-excursoria-hafniensis](https://github.com/bergholt/flora-excursoria-hafniensis)** — Searchable
