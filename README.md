@@ -1,7 +1,7 @@
 # Kasper Bergholt
 
 Artist, poet and photographer in Copenhagen. I work with old cameras, old
-languages and old texts: photography and what comes after it, system poetry,
+languages, and old texts: photography and what comes after it, system poetry,
 programs written for hardware that no longer ships, and the archaeology of
 networks I once helped run.
 
