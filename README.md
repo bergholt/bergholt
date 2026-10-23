@@ -29,21 +29,3 @@ A real-time audio-visual program for MS-DOS, written in APL and Pascal for
 machines of the early 1990s. It reads the inscriptions of 1738 on the Sand
 Drift Monument at Tibirke, north of Copenhagen.
 [About the work](https://bergholt.net/sand) ·
-
-## Infrastructure
-
-### NetLock BBS
-In 1993, at fifteen, I set up a bulletin board on Maximus in a basement in
-Hillerød. It held FidoNet node 2:236/444 from July 1994 until the board went
-down in February 1996. I wrote small modules for it in
-Turbo Pascal, which is where the Pascal in the work above comes from.
-[The story, with the nodelist records](https://bergholt.net/netlock)
-
-## About
-
-My poems appear in Danish journals, among them *Hvedekorn*, *Slagtryk* and
-*Ordskælv*.
-
-[bergholt.net](https://bergholt.net) ·
-[About](https://bergholt.net/about) ·
-[ORCID](https://orcid.org/0000-0002-0674-0582)
