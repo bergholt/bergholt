@@ -24,7 +24,7 @@ A transcription of the 903-name index to Drejer’s 1838 flora of Copenhagen, re
 
 **[sand](https://github.com/bergholt/sand)**
 
-An audiovisual work for MS-DOS in Pascal and APL. The Danish and German inscriptions of the Sand Drift Monument at Tisvilde, erected in 1738, are read alongside English translations. Each letter selects a harmonic of A2 through a modulus that moves from twelve to seventeen. Characters leave the text and settle into a sea below it, while their earlier tunings remain in the drone.
+A mid-90's style MS-DOS demo in Turbo Pascal and APL. The Danish and German inscriptions of the Sand Drift Monument at Tisvilde, erected in 1738, are read alongside English translations. Each letter selects a harmonic of A2 through a modulus that moves from twelve to seventeen. Characters leave the text and settle into a sea below it, while their earlier tunings remain in the drone.
 
 The repository brings together the Pascal and APL source, DOS executable, soundtrack, ANSI artwork and DOSBox configuration, alongside notes on the work’s structure and preservation.
 
