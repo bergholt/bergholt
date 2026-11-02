@@ -6,9 +6,11 @@ I work with old cameras, old languages, and old texts: photography and what come
 
 ### Sun: 72 Poems for 72 Solar Eclipses
 
-**[triptych](https://github.com/bergholt/triptych)** · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21908151.svg)](https://doi.org/10.5281/zenodo.21908151)
+[triptych](https://github.com/bergholt/triptych) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21908151.svg)](https://doi.org/10.5281/zenodo.21908151)
 
-A system poem in Prolog. Ten words and two syntactic orders give seventy-two variants, one for each eclipse of Saros 126, a cycle running from 1179 to 2459. The eclipse of 2026 is the forty-eighth. The program makes the poem’s constraints explicit and generates every combination they permit.
+Ten words, two word orders, seventy-two poems: one for each solar eclipse of Saros 126, a cycle running from 1179 to 2459. The eclipse of 12 August 2026 is the forty-eighth. A program in Prolog makes the poem's constraints explicit and generates every combination they permit.
+
+**In press:** *Sun: 72 Poems for 72 Solar Eclipses* (Forlaget Akse, 2026/2027). Each of the 72 variants on its own page with its eclipse, its letters and its partials over an A2 drone, followed by the complete source code. Paperback, 84 pages.
 
 [About the work](https://bergholt.net/sun)
 
