@@ -4,7 +4,7 @@ I work with old cameras, old languages, and old texts: photography and what come
 
 ## Works
 
-### Sun: A Triptych
+### Sun: 72 Poems for 72 Solar Eclipses
 
 **[triptych](https://github.com/bergholt/triptych)** · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21908151.svg)](https://doi.org/10.5281/zenodo.21908151)
 
