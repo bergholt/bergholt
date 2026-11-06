@@ -6,7 +6,7 @@ I work with old cameras, old languages, and old texts: photography and what come
 
 ### Sun: 72 Poems for 72 Solar Eclipses
 
-[triptych](https://github.com/bergholt/triptych) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21908151.svg)](https://doi.org/10.5281/zenodo.21908151)
+[triptych](https://github.com/bergholt/triptych)
 
 Ten words, two word orders, seventy-two poems: one for each solar eclipse of Saros 126, a cycle running from 1179 to 2459. The eclipse of 12 August 2026 is the forty-eighth. A program in Prolog makes the poem's constraints explicit and generates every combination they permit.
 
@@ -16,7 +16,7 @@ Ten words, two word orders, seventy-two poems: one for each solar eclipse of Sar
 
 ### Flora Excursoria Hafniensis
 
-**[flora-excursoria-hafniensis](https://github.com/bergholt/flora-excursoria-hafniensis)** · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21906483.svg)](https://doi.org/10.5281/zenodo.21906483)
+**[flora-excursoria-hafniensis](https://github.com/bergholt/flora-excursoria-hafniensis)** 
 
 A transcription of the 903-name index to Drejer’s 1838 flora of Copenhagen, read with Prolog. The index interfiles Latin and Danish names in one alphabet and offers no translations. A plant’s two names were set on the same page, however, so the page number works as a join key and part of the pairing can be recovered.
 
