@@ -1,7 +1,3 @@
-# Kasper Bergholt
-
-I work with old cameras, old languages, and old texts: photography and what comes after it, system poetry, programs written for hardware that no longer ships.
-
 ## Works
 
 ### Sun: 72 Poems for 72 Solar Eclipses
@@ -29,5 +25,8 @@ A transcription of the 903-name index to Drejer’s 1838 flora of Copenhagen, re
 A mid-90's style MS-DOS demo in Turbo Pascal and APL. The Danish and German inscriptions of the Sand Drift Monument at Tisvilde, erected in 1738, are read alongside English translations. Each letter selects a harmonic of A2 through a modulus that moves from twelve to seventeen. Characters leave the text and settle into a sea below it, while their earlier tunings remain in the drone.
 
 The repository brings together the Pascal and APL source, DOS executable, soundtrack, ANSI artwork and DOSBox configuration, alongside notes on the work’s structure and preservation.
+
+# Kasper Bergholt
+I work with old cameras, old languages, and old texts: photography and what comes after it, system poetry, programs written for hardware that no longer ships.
 
 [About the work](https://bergholt.net/sand)
